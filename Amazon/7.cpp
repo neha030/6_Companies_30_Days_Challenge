@@ -1,3 +1,7 @@
+/* Question
+First non-repeating character in a stream
+*/
+
 class Solution
 {
 public:

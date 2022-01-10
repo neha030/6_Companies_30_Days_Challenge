@@ -1,3 +1,7 @@
+/* Question
+Column name from a given column number
+*/
+
 class Solution
 {
 public:

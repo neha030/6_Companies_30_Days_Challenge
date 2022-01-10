@@ -1,3 +1,7 @@
+/* Question
+Brackets in Matrix Chain Multiplication
+*/
+
 class Solution
 {
 private:
