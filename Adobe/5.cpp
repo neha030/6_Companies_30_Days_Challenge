@@ -1,3 +1,3 @@
 /* Question
-
+Total number of ways n can be expressed as sum of xth power of unique natural numbers
 */

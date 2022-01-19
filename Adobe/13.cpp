@@ -1,3 +1,3 @@
 /* Question
-
+Minimum operations to convert array A to B 
 */
